@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your expertise as a Business Analyst with a premium portfolio website that highlights your skills, case studies, and consulting services.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
